@@ -9,12 +9,12 @@
 [sub_resource type="RectangleShape2D" id="1"]
 size = Vector2(1519.98, 67.3924)
 
-[node name="Menu" type="Node2D"]
+[node name="Menu" type="Node2D" groups=["blocks"]]
 script = ExtResource("5")
 
 [node name="Background" type="Sprite2D" parent="."]
-position = Vector2(577.964, 323.633)
-scale = Vector2(3.59398, 3.2109)
+position = Vector2(576, 324)
+scale = Vector2(3.60625, 3.25)
 texture = ExtResource("1")
 
 [node name="RedGenerator" parent="." instance=ExtResource("3")]
