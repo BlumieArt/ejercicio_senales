@@ -1,1 +1,3 @@
-Este es el proyecto base del ejercicio de señales.
+Taller de Prototipado 2023
+Belén Améndola
+Ejercicio Señales
